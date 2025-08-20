@@ -4,5 +4,5 @@ Aprendendo Git e GitHub
 
 
 
-Aula Git e GutHub... MBA Xperiun 
+Aula Git e GitHub... MBA Xperiun...
 
